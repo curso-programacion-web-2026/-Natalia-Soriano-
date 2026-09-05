@@ -1,0 +1,53 @@
+body{
+    font-family: Kristen ITC, sans-serif;
+    background-color: rgb(228, 33, 137)
+    ;font-family: 'Kristen ITC', monospace;
+}   
+h1{
+    color: rgb(247, 234, 55);
+font-size:20px;
+text-align: center;
+}
+h2{
+    color: rgb(20, 20, 20);
+font-size:30px;
+font-family: 'tahoma';
+text-align:right;
+}
+h3{
+    color: rgb(7, 23, 238);
+font-size:15px;
+text-align:left;
+}
+h4{
+    color: rgb(7, 172, 238);
+font-size:25px;
+text-align:justify;
+}
+
+.footer-pagos{
+ color: rgb(202, 202, 199);
+    font-weight: bold;
+}
+.footer-info{
+    color: rgb(231, 223, 238);
+    font-weight: bold;
+}
+#inicio{
+    background-color: rgb(149, 59, 233);
+    color: bisque;
+}
+#ofertas{
+    background-color: yellowgreen;
+    color: violet;
+}
+#contacto{
+    background-color: thistle;
+    color: teal;
+}
+#unicaimg{
+     width: 270px;
+}
+img{
+    height: 200px;
+}
