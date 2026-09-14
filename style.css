@@ -38,11 +38,11 @@ text-align:justify;
     color: bisque;
 }
 #ofertas{
-    background-color: yellowgreen;
+    background-color: rgb(232, 235, 228);
     color: violet;
 }
 #contacto{
-    background-color: thistle;
+    background-color: rgb(223, 173, 80);
     color: teal;
 }
 #unicaimg{
@@ -50,4 +50,10 @@ text-align:justify;
 }
 img{
     height: 200px;
+}
+section {
+background-color: rgb(209, 219, 213);
+padding: 100px;
+margin: 50px;
+border: 20px solid rgb(248, 233, 22);
 }
